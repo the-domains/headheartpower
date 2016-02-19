@@ -1,6 +1,6 @@
 name: headheartpower
 favicon: null
-layout_spectrum: 0.74818
+layout_spectrum: 1
 typography_spectrum: 0.1322
 title: 'Head, Heart & Power Blog'
 cta:
@@ -22,7 +22,7 @@ color:
     - '#b9b7aa'
     - '#656469'
     - '#48474c'
-  brandStrength: 0.5
+  brandStrength: 0.1875
   lightness: 0.0625
   saturation: 0.5
   rhythmicContrast: 0.5
