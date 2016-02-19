@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[Head, Heart & Power Blog]]></title>
         <description><![CDATA[Head, Heart & Power Blog]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/headheartpower/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Feb 2016 14:03:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 19 Feb 2016 14:04:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/headheartpower/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/21e315f3-c971-46b5-a4b8-a30154f22c59.jpg">]]></description>
+            <link>https://thegrid.ai/headheartpower/05d51abf-2068-436e-ad8d-874527bee7b2/index.html</link>
+            <guid isPermaLink="false">05d51abf-2068-436e-ad8d-874527bee7b2</guid>
+            <pubDate>Fri, 19 Feb 2016 14:04:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Chemical Compound Stickers for Crayons Help Teach Kids Chemistry While Coloring]]></title>
-            <description><![CDATA[<article><h1>Chemical Compound Stickers for Crayons Help Teach Kids Chemistry While Coloring</h1><p>The folks over at Que Interesante created this clever sticker pack for crayons, effectively turning color names into the chemical compounds the correlate with each hue.</p><img src="http://www.thisiscolossal.com/wp-content/uploads/2016/02/colors-1.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Chemical Compound Stickers for Crayons Help Teach Kids Chemistry While Coloring</h1><p>The folks over at Que Interesante created this clever sticker pack for crayons, effectively turning color names into the chemical compounds the correlate with each hue.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8385ab0522458c4cc1df47028bec0382f13e74da.jpg"></article>]]></description>
             <link>http://www.thisiscolossal.com/2016/02/chemistry-crayons/</link>
             <guid isPermaLink="false">e0b48a3a-de5b-4c71-b918-6e19715b2b0a</guid>
             <pubDate>Fri, 19 Feb 2016 14:03:48 GMT</pubDate>
