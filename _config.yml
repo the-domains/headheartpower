@@ -1,7 +1,7 @@
 name: headheartpower
 favicon: null
-layout_spectrum: 0.9330059462226927
-typography_spectrum: 0.7370160296559334
+layout_spectrum: 0.74818
+typography_spectrum: 0.64811
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.7310475772246718
-  lightness: 0.3774546622298658
-  saturation: 0.19064514129422605
-  rhythmicContrast: 0.7304538795724511
+    - '#252523'
+    - '#fde4b2'
+    - '#4c513c'
+    - '#b44a29'
+    - '#e1925f'
+  brandStrength: 0.75
+  lightness: 0.1875
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
