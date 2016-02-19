@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[headheartpower]]></title>
         <description><![CDATA[headheartpower]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/headheartpower/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Feb 2016 13:43:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 19 Feb 2016 13:48:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/headheartpower/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Creative gems; found, polished and set.]]></title>
-            <description><![CDATA[<h1>Creative gems; found, polished and set.</h1>]]></description>
-            <link>undefinedcreative-gems-found-polished-and-set/index.html</link>
+            <description><![CDATA[<article><h1>Creative gems; found, polished and set.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2f1950e-ddac-4fa8-b2d4-244040718ab7.jpg"></article>]]></description>
+            <link>https://thegrid.ai/headheartpower/creative-gems-found-polished-and-set/index.html</link>
             <guid isPermaLink="false">d60bbecc-bf51-4da0-bd14-c010575f22c2</guid>
-            <pubDate>Fri, 19 Feb 2016 13:43:14 GMT</pubDate>
+            <pubDate>Fri, 19 Feb 2016 13:48:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
