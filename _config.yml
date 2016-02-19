@@ -2,6 +2,7 @@ name: headheartpower
 favicon: null
 layout_spectrum: 0.74818
 typography_spectrum: 0.64811
+title: 'Head, Heart & Power Blog'
 cta:
   domain: null
   bucket: null
